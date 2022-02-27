@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tuningwan/portfolio-demo.git/static/css/main.a659989c.css",
+    "main.js": "/tuningwan/portfolio-demo.git/static/js/main.34466d51.js",
+    "static/js/787.7d4caaf7.chunk.js": "/tuningwan/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js",
+    "static/media/dev.jpeg": "/tuningwan/portfolio-demo.git/static/media/dev.4d400b99a5411068da5a.jpeg",
+    "static/media/tick.png": "/tuningwan/portfolio-demo.git/static/media/tick.a7ad778c33d6e16d7d70.png",
+    "index.html": "/tuningwan/portfolio-demo.git/index.html",
+    "main.a659989c.css.map": "/tuningwan/portfolio-demo.git/static/css/main.a659989c.css.map",
+    "main.34466d51.js.map": "/tuningwan/portfolio-demo.git/static/js/main.34466d51.js.map",
+    "787.7d4caaf7.chunk.js.map": "/tuningwan/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a659989c.css",
+    "static/js/main.34466d51.js"
+  ]
+}
